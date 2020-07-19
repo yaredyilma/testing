@@ -57,7 +57,12 @@ The topics you should focus on during your study this week.
 
 ### JavaScript
 
-- [Prepwork Practice Problems](https://hackyourfuture.be/testing/week-1/prep)
+- [Isolate](../isolate/index.html)
+  - Reference vs. Value
+  - Arrays
+  - Side Effects (examples)
+  - `for ... of` (examples)
+  - About Testing
 - Arrays
   - [JS Tutor Video](https://www.youtube.com/watch?v=W1NTK09o-vM)
   - [Coding with Mosh](https://www.youtube.com/watch?v=oigfaZ5ApsM)
@@ -65,6 +70,8 @@ The topics you should focus on during your study this week.
   - [javascript.info](https://javascript.info/array) (just the beginning)
 - Reference vs. Value
   - [Academind](https://www.youtube.com/watch?v=9ooYYRLdg_g)
+  - [Mosh video](https://www.youtube.com/watch?v=fD0t_DKREbE)
+  - [CodeBurst article](https://codeburst.io/javascript-passing-by-value-vs-reference-explained-in-plain-english-8d00fd06a47c)
   - [Just JavaScript](https://github.com/HackYourFutureBelgium/just-javascript/tree/master/06-Equality-of-Values)
   - [Janke Learning](https://github.com/janke-learning/reference-vs-value)
   - [javascript.info](https://javascript.info/object-copy#comparison-by-reference)
@@ -85,7 +92,7 @@ The topics you should focus on during your study this week.
 ## Lesson Plan
 
 > during Sunday class
-> - [Lesson Plan Slides](https://hackyourfuture.be/testing/week-1)
+> - [Lesson Plan Slides](./index.html)
 
 Learn some ways to use arrays:
 
@@ -136,6 +143,27 @@ Helpful code to study:
   - [`for in`](https://javascript.info/object#the-for-in-loop)
 - [Controlling Logical Flow](https://shawnr.gitbooks.io/practical-introduction-to-javascript/controlling-logical-flow/)
 
+### Reading Code
+
+- [Helpful Links from _Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation#helpful-links)
+- [dinanathsj29/javascript-exercise-beginners](https://github.com/dinanathsj29/javascript-exercise-beginners)
+  - Finished solutions to study
+  - Multiple solutions to the same problem
+- [KBPsystem777](https://github.com/KBPsystem777/JSexercises)
+
+#### Exercise Repos
+
+- [devleague/js-functions](https://github.com/devleague/js-functions/) (easy practice)
+- [dinanathsj29/javascript-exercise-beginners](https://github.com/dinanathsj29/javascript-exercise-beginners)
+  - Finished solutions to study
+  - Multiple solutions to the same problem
+
+#### Endless Practice
+
+- [edabit](https://edabit.com/)
+- [fuzz](https://hackyourfuture.be/fuzz)
+- [codewars](https://www.codewars.com/)
+
 > Are we missing a great resource? Send us a PR!
 
 ---
@@ -145,11 +173,11 @@ Helpful code to study:
 - [Behavior, Strategy, Implementation](https://github.com/HackYourFutureBelgium/behavior-strategy-implementation)
   - Fork and clone this repo
   - :egg: write up 3 Codewars challenges
-  - :hatching_chick_: why stop at 3?
+  - :hatching_chick: why stop at 3?
 - [Document and Pass](https://github.com/HackYourFutureBelgium/document-and-pass/)
   - Fork and clone this repo
   - :egg: Document and pass any 3 of the exercises
-  - :hatching_chicks: Why stop at 3?
+  - :hatching_chick: Why stop at 3?
 
 ---
 
